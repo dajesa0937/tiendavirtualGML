@@ -1,35 +1,35 @@
 const products = [
   {
-    name: "Bobina de Carga Yamaha 15 HP",
+    name: "Bobina de Carga Yamaha 15",
     brand: "Yamaha",
-    price: 350000,
+    price: 80000,
     image: "../assets/images/motoresfb/bobina_carga_15.avif",
   },
 
   {
-    name: "Caucho Yamaha 15HP",
-    brand: "Yamaha",
-    price: 45000,
+    name: "Caucho Varilla Cambios",
+    brand: "Yamaha 15 HP",
+    price: 29000,
     image: "../assets/images/motoresfb/caucho_varilla_15.jpg",
   },
 
   {
     name: "Culata 15 Yamaha",
     brand: "Yamaha",
-    price: 120000,
+    price: 340000,
     image: "../assets/images/motoresfb/culata_15_yamaha.jpg",
   },
   {
     name: "Helice Suzuki 15 HP",
     brand: "Suzuki",
-    price: 120000,
+    price: 250000,
     image: "../assets/images/motoresfb/helice_15_suzuki.jpg",
   },
   {
-    name: "Culata 15 Yamaha",
+    name: "Bujia Ngk BR8HS-10 Original ",
     brand: "Yamaha",
-    price: 120000,
-    image: "../assets/images/motoresfb/culata_15_yamaha.jpg",
+    price: 7500,
+    image: "../assets/images/motoresfb/bujiaNgk8.jpg",
   },
 
   {
@@ -41,8 +41,20 @@ const products = [
   {
     name: "Helice - Propela 15 Yamaha",
     brand: "Yamaha",
-    price: 120000,
+    price: 240000,
     image: "../assets/images/motoresfb/helice_15_yamaha.jpg",
+  },
+  {
+    name: "Helice Estria 40 Yamaha 663-45947-00",
+    brand: "Yamaha",
+    price: 370000,
+    image: "../assets/images/motoresfb/helice_40estria.jpg",
+  },
+  {
+    name: "Helice Pasador 40 Yamaha 675-45941-00",
+    brand: "Yamaha",
+    price: 370000,
+    image: "../assets/images/motoresfb/helice_40estria.jpg",
   },
 ];
 

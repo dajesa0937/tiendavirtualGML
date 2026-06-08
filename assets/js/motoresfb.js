@@ -56,6 +56,42 @@ const products = [
     price: 370000,
     image: "../assets/images/motoresfb/helice_40estria.jpg",
   },
+  {
+    name: "Carcaza Funda 15 Yamarine",
+    brand: "Yamaha",
+    price: 1100000,
+    image: "../assets/images/motoresfb/funda15y.jpg",
+  },
+  {
+    name: "Arranque 15 Yamarine",
+    brand: "Yamaha",
+    price: 350000,
+    image: "../assets/images/motoresfb/arranque15y.jpg",
+  },
+  {
+    name: "Eje Helice 15 Yamarine",
+    brand: "Yamaha",
+    price: 245000,
+    image: "../assets/images/motoresfb/ejehelice.jpg",
+  },
+  {
+    name: "Carter 15 Yamarine",
+    brand: "Yamaha",
+    price: 1815000,
+    image: "../assets/images/motoresfb/carter15.jpg",
+  },
+  {
+    name: "Interrruptor Yamarine",
+    brand: "Yamaha",
+    price: 48000,
+    image: "../assets/images/motoresfb/interruptor15.jpg",
+  },
+  {
+    name: "Empaque Culata 40J-G Yamarine",
+    brand: "Yamaha",
+    price: 28000,
+    image: "../assets/images/motoresfb/empaqueculata40.jpg",
+  },
 ];
 
 const productGrid = document.getElementById("productGrid");

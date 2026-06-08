@@ -1,35 +1,35 @@
 const products = [
   {
-    name: "Bobina de Carga Yamaha 15",
-    brand: "Yamaha",
-    price: 80000,
-    image: "../assets/images/motoresfb/bobina_carga_15.avif",
+    name: "Empaque de Culata 16 HP Briggs Ref 692231 Modelo 326431",
+    brand: "Briggs & Stratton",
+    price: 35000,
+    image: "../assets/images/gasolina-diesel/empaqueculata16.jpg",
   },
 
   {
-    name: "Caucho Varilla Cambios",
-    brand: "Yamaha 15 HP",
-    price: 29000,
-    image: "../assets/images/motoresfb/caucho_varilla_15.jpg",
+    name: "Bujia 16 HP Briggs Ref 796112 Modelo 326431",
+    brand: "Briggs & Stratton",
+    price: 12000,
+    image: "../assets/images/gasolina-diesel/bujia796112.jpg",
   },
 
   {
-    name: "Culata 15 Yamaha",
-    brand: "Yamaha",
-    price: 340000,
-    image: "../assets/images/motoresfb/culata_15_yamaha.jpg",
+    name: "Empaque Culata 18 HP Vanguard Ref 845884 Modelo 356442",
+    brand: "Vanguard",
+    price: 34000,
+    image: "../assets/images/gasolina-diesel/empaqueculata18.jpg",
   },
   {
-    name: "Helice Suzuki 15 HP",
-    brand: "Suzuki",
-    price: 250000,
-    image: "../assets/images/motoresfb/helice_15_suzuki.jpg",
+    name: "Bomba Combustible Vanguard 18 HP 808656 ",
+    brand: "Vanguard",
+    price: 120000,
+    image: "../assets/images/gasolina-diesel/bombacombustible18.jpg",
   },
   {
-    name: "Bujia Ngk BR8HS-10 Original ",
-    brand: "Yamaha",
-    price: 7500,
-    image: "../assets/images/motoresfb/bujiaNgk8.jpg",
+    name: "Valvula de Combustible Briggs",
+    brand: "Briggs & Stratton",
+    price: 15000,
+    image: "../assets/images/gasolina-diesel/VALVULA.jpg",
   },
 
   {

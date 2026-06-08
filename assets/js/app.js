@@ -1,6 +1,6 @@
 const products = [
   {
-    name: "Motor Fuera de Borda 15 Earrow pata corta y larga",
+    name: "15 HP Earrow Pata corta y Pata larga",
     image: "./assets/images/motorEarrow15.png",
     description: "",
     price: 5950000,
@@ -14,7 +14,7 @@ const products = [
   },
 
   {
-    name: "Cortasetos",
+    name: "Cortasetos Fujita",
     image: "./assets/images/cortasetos.jpg",
     description: "Herramientas profesionales agro.",
     price: 920000,
@@ -28,14 +28,14 @@ const products = [
   },
 
   {
-    name: "Guadañadora",
+    name: "Guadañadora Fuijta",
     image: "./assets/images/guadana.jpg",
     description: "Trabajo profesional agrícola.",
     price: 1950000,
   },
 
   {
-    name: "Fumigadora Estacionaria",
+    name: "Estacionaria Fujita",
     image: "./assets/images/fumigadora.jpg",
     description: "Equipos de fumigación.",
     price: 1800000,
@@ -46,6 +46,12 @@ const products = [
     image: "./assets/images/concentrado700.png",
     description: "Mata Comején Alemán",
     price: 22700,
+  },
+  {
+    name: "Planta Electrica Fujita",
+    image: "./assets/images/Generador-GD2500.jpg",
+    description: "2500 Watts 110/220 Voltios",
+    price: 2200000,
   },
 ];
 
@@ -129,7 +135,7 @@ const spare = [
   {
     name: "Varilla de Basculacion",
     brand: "Yamaha",
-    price: 120000,
+    price: 35000,
     image: "../assets/images/motoresfb/varillabasculacion15.jpg",
     description: "Yamaha 15 HP.",
   },
@@ -153,6 +159,27 @@ const spare = [
     price: 370000,
     image: "../assets/images/motoresfb/helice_40estria.jpg",
     description: "Yamaha 40 HP.",
+  },
+  {
+    name: "Impeller 15 Yamarine",
+    brand: "Yamaha",
+    price: 32000,
+    image: "../assets/images/motoresfb/impeller_15y.jpg",
+    description: "Yamaha 15 HP",
+  },
+  {
+    name: "Vaso 15 Yamarine",
+    brand: "Yamaha",
+    price: 20000,
+    image: "../assets/images/motoresfb/vaso_15y.jpg",
+    description: "Yamaha 15 HP",
+  },
+  {
+    name: "Platina 15 Yamarine",
+    brand: "Yamaha",
+    price: 32000,
+    image: "../assets/images/motoresfb/platina_15y.jpg",
+    description: "Yamaha 15 HP",
   },
 ];
 

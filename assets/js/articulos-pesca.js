@@ -1,9 +1,9 @@
 const products = [
   {
-    name: "Bobina de Carga Yamaha 15",
+    name: "Bomba de Achique 12V",
     brand: "Yamaha",
-    price: 80000,
-    image: "../assets/images/motoresfb/bobina_carga_15.avif",
+    price: 180000,
+    image: "../assets/images/articulos-pesca/bomba_achique.jpg",
   },
 
   {

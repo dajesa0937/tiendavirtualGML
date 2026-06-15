@@ -33,28 +33,64 @@ const products = [
   },
 
   {
-    name: "Varilla de Basculacion 15 Yamaha",
-    brand: "Yamaha",
+    name: "Aceite 20W50 4t 1/4 Galon (Gasolina)",
+    brand: "Durespo",
+    price: 34000,
+    image: "../assets/images/gasolina-diesel/aceite20w50.jpg",
+  },
+  {
+    name: "Aceite 15W40 4t 1/4 Galon (Diesel)",
+    brand: "Durespo",
+    price: 34000,
+    image: "../assets/images/gasolina-diesel/aceite15w40.jpg",
+  },
+  {
+    name: "Aceite 2t 1/4 Galon Sintetico(Motor 2 tiempos)",
+    brand: "Durespo",
+    price: 36000,
+    image: "../assets/images/gasolina-diesel/aceite2t.jpg",
+  },
+  {
+    name: "Grasa para guadañas (Motor 2 tiempos)",
+    brand: "Durespo",
+    price: 14000,
+    image: "../assets/images/gasolina-diesel/grasa.jpg",
+  },
+  {
+    name: "Sello Mecanico 11/4 Resorte Largo",
+    brand: "yakpower",
+    price: 28000,
+    image: "../assets/images/gasolina-diesel/Sello-Mecanico.png",
+  },
+  {
+    name: "Buje en Bronce 11/4 Importado",
+    brand: "yakpower",
+    price: 30000,
+    image: "../assets/images/gasolina-diesel/Buje.png",
+  },
+  {
+    name: "Siliconas para motores",
+    brand: "Darrow",
+    price: 30000,
+    image: "../assets/images/gasolina-diesel/silicona.png",
+  },
+  {
+    name: "Kit Bomba 3x3 Alta Presion",
+    brand: "Yakpower",
+    price: 680000,
+    image: "../assets/images/gasolina-diesel/bomba3x3.jpg",
+  },
+  {
+    name: "Kit Piston con Anillos 16 HP STD Marca Fujita",
+    brand: "Fujita",
     price: 120000,
-    image: "../assets/images/motoresfb/varillabasculacion15.jpg",
+    image: "../assets/images/gasolina-diesel/kit_piston.jpg",
   },
   {
-    name: "Helice - Propela 15 Yamaha",
-    brand: "Yamaha",
-    price: 240000,
-    image: "../assets/images/motoresfb/helice_15_yamaha.jpg",
-  },
-  {
-    name: "Helice Estria 40 Yamaha 663-45947-00",
-    brand: "Yamaha",
-    price: 370000,
-    image: "../assets/images/motoresfb/helice_40estria.jpg",
-  },
-  {
-    name: "Helice Pasador 40 Yamaha 675-45941-00",
-    brand: "Yamaha",
-    price: 370000,
-    image: "../assets/images/motoresfb/helice_40estria.jpg",
+    name: "Carburador 16 HPMarca Fujita",
+    brand: "Fujita",
+    price: 120000,
+    image: "../assets/images/gasolina-diesel/carburadorfujita16.jpg",
   },
 ];
 

@@ -66,7 +66,7 @@ const products = [
     name: "Buje en Bronce 11/4 Importado",
     brand: "yakpower",
     price: 30000,
-    image: "../assets/images/gasolina-diesel/Buje.png",
+    image: "../assets/images/gasolina-diesel/buje.png",
   },
   {
     name: "Siliconas para motores",

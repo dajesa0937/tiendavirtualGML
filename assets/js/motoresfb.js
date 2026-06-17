@@ -3,7 +3,7 @@ const products = [
     name: "Bobina de Carga Yamaha 15",
     brand: "Yamaha",
     price: 80000,
-    image: "../assets/images/motoresfb/bobina_carga_15.avif",
+    image: "../assets/images/motoresfb/bobina_carga_15.jpg",
   },
 
   {

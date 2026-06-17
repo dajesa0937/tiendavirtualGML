@@ -98,7 +98,7 @@ const spare = [
     name: "Bobina de Carga",
     brand: "Yamaha",
     price: 80000,
-    image: "../assets/images/motoresfb/bobina_carga_15.jpg",
+    image: "./assets/images/motoresfb/bobina_carga_15.jpg",
     description: "Yamaha 15 HP.",
   },
 

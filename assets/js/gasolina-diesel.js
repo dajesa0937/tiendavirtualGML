@@ -54,7 +54,7 @@ const products = [
     name: "Grasa para guadañas (Motor 2 tiempos)",
     brand: "Durespo",
     price: 14000,
-    image: "../assets/images/gasolina-diesel/grasa.jpg",
+    image: "../assets/images/gasolina-diesel/Grasa.jpg",
   },
   {
     name: "Sello Mecanico 11/4 Resorte Largo",

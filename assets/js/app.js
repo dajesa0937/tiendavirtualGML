@@ -5,6 +5,36 @@ const products = [
     description: "",
     price: 5950000,
   },
+  {
+    name: "20 HP 4 Tiempos Suzuki Pata Corta",
+    image: "./assets/images/motor_20_sz.jpeg",
+    description: "",
+    price: 12300000,
+  },
+  {
+    name: "2.5 HP 4 Tiempos Suzuki Pata Corta",
+    image: "./assets/images/motor2-5-sz.jpeg",
+    description: "",
+    price: 4265000,
+  },
+  {
+    name: "30 HP 2 Tiempos Suzuki Pata Larga",
+    image: "./assets/images/motor-30-sz.jpeg",
+    description: "",
+    price: 13000000,
+  },
+  {
+    name: "5 HP 2 Tiempos Earrow Pata Corta",
+    image: "./assets/images/motor-5hp-earrow.jpg",
+    description: "",
+    price: 3700000,
+  },
+  {
+    name: "3 HP 2 Tiempos Earrow Pata Corta",
+    image: "./assets/images/motor-3hp-earrow.jpg",
+    description: "",
+    price: 2860000,
+  },
 
   {
     name: "Fumigadora Fujita",

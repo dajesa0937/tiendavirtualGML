@@ -35,6 +35,18 @@ const products = [
     description: "",
     price: 2860000,
   },
+  {
+    name: "Aceite Suzuki ECSTAR",
+    image: "./assets/images/aceite-1litro.jpeg",
+    description: "1 litro-Caja x 12 Und",
+    price: 45000,
+  },
+  {
+    name: "Aceite Suzuki ECSTAR",
+    image: "./assets/images/aceite-4litro.jpeg",
+    description: "Bolsa 4 Litros-Caja x 4 Und",
+    price: 160000,
+  },
 
   {
     name: "Fumigadora Fujita",

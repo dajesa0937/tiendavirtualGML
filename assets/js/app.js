@@ -169,7 +169,7 @@ const spare = [
   {
     name: "Bujia Ngk BR8HS-10",
     brand: "Yamaha",
-    price: 7500,
+    price: 12000,
     image: "./assets/images/motoresfb/bujiaNgk8.jpg",
     description: "Yamaha 15 HP.",
   },

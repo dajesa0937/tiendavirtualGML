@@ -1,4 +1,4 @@
-window.GML_CATEGORIES=[{"id": "motores-fuera-de-borda", "name": "Motores fuera de borda", "short": "Fuera de borda", "desc": "Motores Parsun y Navega, 2 y 4 tiempos, y otras marcas bajo consulta.", "count": 32}, {"id": "helices-fuera-de-borda", "name": "Hélices para motores fuera de borda", "short": "Hélices", "desc": "Hélices de acero y de aluminio para motores Yamaha, Suzuki, Parsun, Navega y otros.", "count": 23}, {"id": "bujias", "name": "Bujías NGK", "short": "Bujías", "desc": "Bujías NGK originales para motores fuera de borda, motosierras y guadañas.", "count": 6}, {"id": "repuestos-fuera-de-borda", "name": "Repuestos fuera de borda", "short": "Repuestos marinos", "desc": "Repuestos para motores Yamaha, Suzuki y otras líneas. Más de 750 referencias.", "count": 20}, {"id": "generadores", "name": "Plantas eléctricas", "short": "Generadores", "desc": "Generadores a gasolina, diésel y trifuel, de 2.500 W a 16 kW.", "count": 10}, {"id": "motores-estacionarios", "name": "Motores estacionarios", "short": "Motores", "desc": "Motores a gasolina y diésel para bombas, molinos, fumigadoras y más.", "count": 10}, {"id": "motobombas", "name": "Motobombas", "short": "Motobombas", "desc": "Alta presión, autocebantes y portátiles, a gasolina y diésel.", "count": 15}, {"id": "fumigacion", "name": "Fumigación", "short": "Fumigación", "desc": "Fumigadoras estacionarias y de espalda, lanzas, mangueras y accesorios.", "count": 6}, {"id": "forrajeras-trituradores", "name": "Forrajeras y trituradores", "short": "Forrajeras", "desc": "Molinos, picapastos, desgranadoras y trituradores Trapp.", "count": 39}, {"id": "labranza-jardineria", "name": "Labranza y jardinería", "short": "Labranza", "desc": "Motoazadas, guadañas, motosierras, sopladoras y cortacéspedes.", "count": 15}, {"id": "abrasivos", "name": "Abrasivos", "short": "Abrasivos", "desc": "Discos, lijas, gratas, rodillos y bandas Fujita para metal, concreto e inox.", "count": 28}, {"id": "ganaderia", "name": "Ganadería", "short": "Ganadería", "desc": "Impulsores solares para cerca eléctrica e indicadores de pesaje Gallagher.", "count": 2}, {"id": "lubricantes-repuestos", "name": "Lubricantes y repuestos de motor", "short": "Lubricantes", "desc": "Aceites, grasa y repuestos para motores a gasolina y bombas.", "count": 18}];
+window.GML_CATEGORIES=[{"id": "motores-fuera-de-borda", "name": "Motores fuera de borda", "short": "Fuera de borda", "desc": "Motores Parsun y Navega, 2 y 4 tiempos, y otras marcas bajo consulta.", "count": 32}, {"id": "helices-fuera-de-borda", "name": "Hélices para motores fuera de borda", "short": "Hélices", "desc": "Hélices de acero y de aluminio para motores Yamaha, Suzuki, Parsun, Navega y otros.", "count": 23}, {"id": "bujias", "name": "Bujías NGK", "short": "Bujías", "desc": "Bujías NGK originales para motores fuera de borda, motosierras y guadañas.", "count": 6}, {"id": "repuestos-fuera-de-borda", "name": "Repuestos fuera de borda", "short": "Repuestos marinos", "desc": "Repuestos para motores Yamaha, Suzuki y otras líneas. Más de 750 referencias.", "count": 20}, {"id": "generadores", "name": "Plantas eléctricas", "short": "Generadores", "desc": "Generadores a gasolina, diésel y trifuel, de 2.500 W a 16 kW.", "count": 10}, {"id": "motores-estacionarios", "name": "Motores estacionarios", "short": "Motores", "desc": "Motores a gasolina y diésel para bombas, molinos, fumigadoras y más.", "count": 10}, {"id": "motobombas", "name": "Motobombas", "short": "Motobombas", "desc": "Alta presión, autocebantes y portátiles, a gasolina y diésel.", "count": 15}, {"id": "fumigacion", "name": "Fumigación", "short": "Fumigación", "desc": "Fumigadoras estacionarias y de espalda, lanzas, mangueras y accesorios.", "count": 7}, {"id": "forrajeras-trituradores", "name": "Forrajeras y trituradores", "short": "Forrajeras", "desc": "Molinos, picapastos, desgranadoras y trituradores Trapp.", "count": 39}, {"id": "labranza-jardineria", "name": "Labranza y jardinería", "short": "Labranza", "desc": "Motoazadas, guadañas, motosierras, sopladoras y cortacéspedes.", "count": 15}, {"id": "abrasivos", "name": "Abrasivos", "short": "Abrasivos", "desc": "Discos, lijas, gratas, rodillos y bandas Fujita para metal, concreto e inox.", "count": 28}, {"id": "ganaderia", "name": "Ganadería", "short": "Ganadería", "desc": "Impulsores solares para cerca eléctrica e indicadores de pesaje Gallagher.", "count": 2}, {"id": "lubricantes-repuestos", "name": "Lubricantes y repuestos de motor", "short": "Lubricantes", "desc": "Aceites, grasa y repuestos para motores a gasolina y bombas.", "count": 17}];
 window.GML_REPUESTOS_LINEAS=[{"name": "Motor Y5", "count": 31}, {"name": "Motor Y8", "count": 6}, {"name": "Yamaha 9,9 / 15", "count": 157}, {"name": "25B", "count": 32}, {"name": "40G / 40J", "count": 182}, {"name": "40X", "count": 63}, {"name": "75B", "count": 46}, {"name": "Suzuki 9,9 / 15", "count": 65}, {"name": "Suzuki 30DT", "count": 37}, {"name": "40DT", "count": 15}, {"name": "E60H", "count": 14}, {"name": "FT50", "count": 12}, {"name": "200AET", "count": 43}, {"name": "Rodamientos", "count": 22}, {"name": "F20 Yamaha", "count": 3}, {"name": "F250, F200, F150 (4 tiempos)", "count": 3}, {"name": "Empaques nacionales", "count": 26}];
 window.GML_PRODUCTS=[
 {
@@ -7523,15 +7523,19 @@ window.GML_PRODUCTS=[
 "price": null
 },
 {
-"id": "lb-concentrado-700",
-"name": "Concentrado 700 · 120 ml (mata comején alemán)",
+"id": "fum-concentrado-700",
+"name": "Concentrado 700 · 120 ml (insecticida para comején)",
 "brand": "",
-"cat": "lubricantes-repuestos",
-"sub": "Insumos",
+"cat": "fumigacion",
+"sub": "Insecticidas",
 "code": null,
 "image": "assets/img/p/lb-conc700.webp",
-"summary": "Concentrado 700 en presentación de 120 ml. Mata comején alemán.",
+"summary": "Concentrado 700 en presentación de 120 ml. Insecticida para matar comején.",
 "specs": [
+[
+"Tipo",
+"Insecticida"
+],
 [
 "Presentación",
 "120 ml"

@@ -8,7 +8,7 @@ window.GML = {
   whatsapp: "573108394870",
   celular: "310 839 4870",
   fijo: "505 2013",
-  email: "globaldemaquinariaylubricantes@gmail.com",
+  email: "gml.globaldemaquinaria@gmail.com",
   direccion: "Calle 79 B sur No. 79 A 221, Medellín",
   marineparts: "https://marineparts-frontend-app.onrender.com/",
   showPrices: false,

@@ -1,212 +1,94 @@
 <!doctype html>
-
-<html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <title>Global de Maquinaria y Lubricantes</title>
-
-    <link rel="stylesheet" href="./assets/css/style.css" />
-
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
-    />
-  </head>
-
-  <body>
-    <!-- BARRA SUPERIOR -->
-
-    <div class="top-bar">
-      <a href="https://dajesa0937.github.io/tiendavirtualGML/"
-        >📧 www.GlobaldeMaquinariayLubricantes</a
-      >
-
-      <a href="globaldemaquinariaylubricantes@gmail.com"
-        >📧 globaldemaquinariaylubricantes@gmail.com</a
-      >
-
-      <a href="https://wa.me/573108394870" target="_blank">
-        📞 WhatsApp 310 839 4870
-      </a>
-
-      <span>📍 Medellín - Colombia</span>
-
-      <a
-        href="https://www.mercadolibre.com.co/perfil/TU_USUARIO"
-        target="_blank"
-        class="ml-link"
-      >
-        🛒 Mercado Libre
-      </a>
+<html lang="es" data-page="home" data-root="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Global de Maquinaria y Lubricantes · Maquinaria, motores y repuestos</title>
+<meta name="description" content="Maquinaria, motores fuera de borda, generadores, motobombas, fumigación, abrasivos, repuestos y lubricantes en Medellín. Cotice por WhatsApp.">
+<link rel="icon" href="assets/img/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body>
+<main>
+  <section class="hero">
+    <div class="wrap">
+      <div>
+        <span class="eyebrow">Medellín · Colombia</span>
+        <h1>Maquinaria, motores y repuestos para el <em>campo</em>, la obra y el agua</h1>
+        <p>Plantas eléctricas, motobombas, motores fuera de borda, fumigación, abrasivos, repuestos y lubricantes. Arme su lista y reciba su cotización por WhatsApp.</p>
+        <div class="cta">
+          <a class="btn btn-red" href="catalogo.html">Ver catálogo</a>
+          <a class="btn btn-ghost" id="heroWa" href="#" target="_blank" rel="noopener">Cotizar por WhatsApp</a>
+        </div>
+      </div>
+      <div class="collage" id="collage" aria-hidden="true"></div>
     </div>
+  </section>
+  <div class="stripe"></div>
 
-    <!-- ENCABEZADO -->
+  <div class="brands"><div class="wrap"><span class="lbl">Marcas con las que trabajamos</span><span>Fujita</span><span>Trapp</span><span>Parsun</span><span>Gallagher</span><span>Durespo</span><span>Yamaha</span><span>Suzuki</span><span>Navega</span><span>Yamarine</span></div></div>
 
-    <header class="main-header">
-      <div class="header-top">
-        <div class="logo-area">
-          <img src="./assets/images/logo.jpeg" alt="Motopesca" class="logo" />
-        </div>
+  <section class="block"><div class="wrap">
+    <div class="sh"><div><h2>Explore por categoría</h2><p>Todo lo que necesita su finca, taller, obra o embarcación en un solo lugar.</p></div><a class="more" href="catalogo.html">Ver todo el catálogo →</a></div>
+    <div class="cats" id="cats"></div>
+  </div></section>
 
-        <div class="company-info">
-          <h1>GLOBAL DE MAQUINARIA Y LUBRICANTES</h1>
+  <section class="block" style="padding-top:0"><div class="wrap">
+    <div class="sh"><div><h2>Equipos destacados</h2><p>Una muestra de lo que puede cotizar con nosotros.</p></div><a class="more" href="catalogo.html">Ver más →</a></div>
+    <div class="grid" id="featured"></div>
+  </div></section>
 
-          <p>
-            Repuestos para Motores Fuera de Borda, Motobombas, Picadoras de
-            Pasto, Equipos Agrícolas, Motores a Gasolina y Motores Diesel
-          </p>
-        </div>
+  <section class="block" style="padding-top:0"><div class="wrap">
+    <div class="sh"><div><h2>Así de simple</h2></div></div>
+    <div class="why">
+      <div><span class="num">1</span><b>Elija sus equipos</b><p>Explore el catálogo, revise las características de cada equipo y agréguelos a su pedido.</p></div>
+      <div><span class="num">2</span><b>Envíe su solicitud</b><p>Con su pedido armado, nos escribe por WhatsApp con un solo clic. Sin registrarse.</p></div>
+      <div><span class="num">3</span><b>Reciba su cotización</b><p>Nuestro equipo comercial le confirma disponibilidad, precio y condiciones de entrega.</p></div>
+      <div><span class="num">+</span><b>Repuestos por referencia</b><p>¿Necesita un repuesto de fuera de borda? Más de 750 referencias consultables en nuestra app MarineParts Cloud.</p></div>
+    </div>
+  </div></section>
+
+  <section class="block" style="padding-top:0"><div class="wrap">
+    <div class="cta-band">
+      <div><h2>¿No encuentra lo que busca?</h2><p>Escríbanos con el nombre, la marca o la referencia del equipo o repuesto y lo cotizamos.</p></div>
+      <a class="btn btn-wa" id="bandWa" href="#" target="_blank" rel="noopener">Escribir por WhatsApp</a>
+    </div>
+  </div></section>
+
+  <section class="block" id="contacto" style="padding-top:0"><div class="wrap">
+    <div class="sh"><div><h2>Contáctenos</h2></div></div>
+    <div class="contact">
+      <div class="card"><h3>Global de Maquinaria y Lubricantes</h3>
+        <ul>
+          <li><b>Dirección</b><span id="cAddr"></span></li>
+          <li><b>Teléfono fijo</b><span id="cFijo"></span></li>
+          <li><b>Celular / WhatsApp</b><span id="cCel"></span></li>
+          <li><b>Correo</b><a id="cMail" href="#"></a></li>
+        </ul>
+        <p style="margin-top:20px"><a class="btn btn-wa" id="cWa" href="#" target="_blank" rel="noopener">Hablar por WhatsApp</a></p>
       </div>
-
-      <!-- MENU -->
-
-      <nav class="main-nav">
-        <a href="index.html">🏠 Inicio</a>
-
-        <a href="./pages/motoresfb.html" class="menu-principal">
-          ⚓ Repuestos Marinos
-        </a>
-        <a href="./pages/gasolina-diesel.html">⛽ Gasolina-Diésel</a>
-
-        <a href="./pages/articulos-pesca.html">🎣 Accesorios para Botes</a>
-
-        <a href="#contacto">📞 Contacto</a>
-      </nav>
-    </header>
-
-    <!-- HERO -->
-
-    <section class="hero" id="inicio">
-      <div class="overlay"></div>
-
-      <div class="hero-content">
-        <h3>
-          Yamaha • Suzuki • Parsun Neptune • Earrow • Navega • Yamarine • Hidea
-          • Mercury • Tohatsu
-        </h3>
-
-        <div>
-          <a href="https://wa.me/573108394870" target="_blank" class="btn">
-            Cotizar por WhatsApp
-          </a>
-        </div>
-      </div>
-    </section>
-
-    <!-- PRODUCTOS -->
-
-    <section class="products" id="productos">
-      <div class="container">
-        <h2 class="section-title">Equipos Más Vendidos</h2>
-
-        <div id="productGrid" class="product-grid"></div>
-      </div>
-    </section>
-
-    <!-- REPUESTOS -->
-
-    <section class="products" id="repuestos">
-      <div class="container">
-        <h2 class="section-title">Repuestos Más Vendidos</h2>
-
-        <div id="spareGrid" class="product-grid"></div>
-      </div>
-    </section>
-
-    <!-- VEHICULO -->
-
-    <section class="vehicle">
-      <div class="container vehicle-content">
-        <div class="vehicle-image">
-          <img src="./assets/images/kangoo.jpeg" alt="Vehículo Motopesca" />
-        </div>
-
-        <div class="vehicle-text">
-          <h2>Cobertura Regional</h2>
-
-          <p>
-            Atención técnica y comercial en regiones costeras, agrícolas y
-            rurales.
-          </p>
-
-          <p>
-            Servicio especializado en motores fuera de borda y maquinaria
-            agrícola.
-          </p>
-        </div>
-      </div>
-    </section>
-
-    <!-- CONTACTO -->
-
-    <section class="contact" id="contacto">
-      <div class="container">
-        <h2 class="section-title">Contáctanos</h2>
-
-        <div class="contact-box">
-          <h3>GLobal de Maquinaria y Lubricantes</h3>
-
-          <p>📍 Medellín - Colombia</p>
-
-          <p>📞 310 839 4870</p>
-
-          <a href="https://wa.me/573108394870" class="btn" target="_blank">
-            Hablar por WhatsApp
-          </a>
-        </div>
-      </div>
-    </section>
-
-    <!-- FOOTER -->
-
-    <footer class="footer">
-      <div class="footer-content">
-        <h3>Global de Maquinaria y Lubricantes</h3>
-
-        <p>
-          Repuestos para Motores Fuera de Borda, Plantas Eléctricas, Motobombas,
-          Picadoras de Pasto y Equipos Agroindustriales.
-        </p>
-
-        <p>📍 Medellín - Colombia</p>
-
-        <p>📞 WhatsApp: 310 839 4870</p>
-
-        <div class="social-icons">
-          <a href="https://wa.me/573108394870" target="_blank">
-            <i class="fab fa-whatsapp"></i>
-          </a>
-
-          <a href="https://instagram.com/motopesca" target="_blank">
-            <i class="fab fa-instagram"></i>
-          </a>
-
-          <a href="https://facebook.com/motopesca" target="_blank">
-            <i class="fab fa-facebook-f"></i>
-          </a>
-
-          <a href="www.motopesca.com" target="_blank">
-            <i class="fas fa-store"></i>
-          </a>
-
-          <a href="#" target="_blank">
-            <i class="fab fa-tiktok"></i>
-          </a>
-
-          <a href="#" target="_blank">
-            <i class="fab fa-youtube"></i>
-          </a>
-        </div>
-
-        <div class="footer-bottom">
-          © 2026 Global de Maquinaria y Lubricantes
-        </div>
-      </div>
-    </footer>
-
-    <script src="./assets/js/app.js"></script>
-  </body>
+      <div class="mapbox"><iframe title="Ubicación de Global de Maquinaria y Lubricantes" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=Calle+79B+sur+%2379A-221,+Medell%C3%ADn,+Colombia&output=embed"></iframe></div>
+    </div>
+  </div></section>
+</main>
+<script src="assets/js/config.js"></script>
+<script src="assets/js/data.js"></script>
+<script src="assets/js/app.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded",()=>{
+  const A=window.GMLApp,G=window.GML,$=A.$;
+  const wa=(t)=>A.waLink(t);
+  $("#heroWa").href=wa("Hola, quiero cotizar equipos de GML"); $("#bandWa").href=wa("Hola, estoy buscando un equipo o repuesto");
+  $("#cWa").href=wa("Hola, quiero información"); $("#cAddr").textContent=G.direccion; $("#cFijo").textContent=G.fijo; $("#cCel").textContent=G.celular;
+  $("#cMail").textContent=G.email; $("#cMail").href="mailto:"+G.email;
+  const col=["gen-gd6000e","bomba-gfmd922","fum-fdql809","mot-md9cr"].map(A.byId).filter(Boolean);
+  $("#collage").innerHTML=col.map(p=>`<figure><img src="${p.image}" alt=""></figure>`).join("");
+  $("#cats").innerHTML=window.GML_CATEGORIES.map(c=>`<a class="cat" href="catalogo.html?cat=${c.id}"><span class="ic">${A.catIcon(c.id)}</span><h3>${A.esc(c.name)}</h3><p>${A.esc(c.desc)}</p><span class="ct">${c.count} productos →</span></a>`).join("");
+  const feat=["gen-gd3500","bomba-gfmd933","mot-md16cr","parsun-te-15bms","fum-est-22","trapp-jtrf80gf","jar-b1050","gal-s100"].map(A.byId).filter(Boolean);
+  $("#featured").innerHTML=feat.map(A.card).join("");
+});
+</script>
+</body>
 </html>

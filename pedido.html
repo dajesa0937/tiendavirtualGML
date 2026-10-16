@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="es" data-page="pedido" data-root="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mi pedido · Global de Maquinaria y Lubricantes</title>
+<link rel="icon" href="assets/img/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body>
+<main>
+  <div class="pagehead"><div class="wrap">
+    <div class="crumbs"><a href="index.html">Inicio</a> › Mi pedido</div>
+    <h1>Mi pedido</h1>
+    <p>Revise los productos, ajuste las cantidades y envíe su solicitud. Nuestro equipo le responde con disponibilidad, precio y condiciones.</p>
+  </div></div>
+  <div class="wrap cartgrid">
+    <div id="items"></div>
+    <aside class="formcard" id="form">
+      <h2>Sus datos</h2>
+      <p class="s">Para enviarle la cotización.</p>
+      <form id="f" novalidate>
+        <div class="field"><label for="n">Nombre completo *</label><input id="n" autocomplete="name" required><div class="err">Escriba su nombre.</div></div>
+        <div class="field"><label for="t">Celular *</label><input id="t" type="tel" inputmode="tel" autocomplete="tel" required><div class="err">Escriba un número de celular válido.</div></div>
+        <div class="field"><label for="c">Ciudad / municipio *</label><input id="c" autocomplete="address-level2" required><div class="err">Escriba su ciudad.</div></div>
+        <div class="field"><label for="e">Correo (opcional)</label><input id="e" type="email" autocomplete="email"></div>
+        <div class="field"><label for="o">Observaciones</label><textarea id="o" placeholder="Ej. uso del equipo, altura de bombeo, tipo de bote…"></textarea></div>
+        <button class="btn btn-wa" type="submit" id="send">Enviar solicitud por WhatsApp</button>
+        <div class="alt"><button class="btn btn-line" type="button" id="copy">Copiar lista</button><button class="btn btn-line" type="button" id="mail">Enviar por correo</button></div>
+      </form>
+      <p class="fine">Al enviar, se abre WhatsApp con su pedido ya escrito. No se realiza ningún cobro: primero le confirmamos disponibilidad y precio.</p>
+    </aside>
+  </div>
+</main>
+<script src="assets/js/config.js"></script>
+<script src="assets/js/data.js"></script>
+<script src="assets/js/app.js"></script>
+<script src="assets/js/pedido.js"></script>
+</body>
+</html>

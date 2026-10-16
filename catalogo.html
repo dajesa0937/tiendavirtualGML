@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es" data-page="catalogo" data-root="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Catálogo · Global de Maquinaria y Lubricantes</title>
+<meta name="description" content="Catálogo de maquinaria, motores, generadores, motobombas, fumigación, abrasivos, repuestos y lubricantes.">
+<link rel="icon" href="assets/img/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body>
+<main>
+  <div class="pagehead"><div class="wrap">
+    <div class="crumbs"><a href="index.html">Inicio</a> › <span id="crumb">Catálogo</span></div>
+    <h1 id="title">Catálogo</h1>
+    <p id="desc">Explore nuestros equipos, repuestos y lubricantes. Agregue lo que le interese a su pedido y reciba su cotización por WhatsApp.</p>
+  </div></div>
+  <div class="wrap shop">
+    <aside class="side" id="side" aria-label="Categorías"></aside>
+    <div>
+      <div class="toolbar">
+        <button class="btn btn-line btn-sm filter-toggle" id="ftoggle">Categorías</button>
+        <div class="q"><label class="sr" for="q">Buscar</label><input id="q" type="search" placeholder="Buscar por nombre, marca, referencia o característica…" autocomplete="off"></div>
+        <label class="sr" for="brand">Marca</label><select id="brand"><option value="">Todas las marcas</option></select>
+        <label class="sr" for="sort">Ordenar</label><select id="sort"><option value="rel">Orden sugerido</option><option value="az">Nombre A-Z</option></select>
+      </div>
+      <div class="chips" id="subs"></div>
+      <div id="lines"></div>
+      <div class="count" id="count" style="margin-bottom:12px"></div>
+      <div class="grid" id="grid"></div>
+      <div class="more-wrap"><button class="btn btn-line" id="more" hidden>Mostrar más productos</button></div>
+      <div class="empty" id="empty" hidden><b>No encontramos resultados.</b><p style="margin-top:6px">Pruebe con otra palabra o escríbanos y lo cotizamos: <a style="color:var(--red);font-weight:600" id="emptyWa" href="#" target="_blank" rel="noopener">WhatsApp</a></p></div>
+    </div>
+  </div>
+</main>
+<script src="assets/js/config.js"></script>
+<script src="assets/js/data.js"></script>
+<script src="assets/js/app.js"></script>
+<script src="assets/js/catalogo.js"></script>
+</body>
+</html>

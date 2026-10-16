@@ -1,4 +1,4 @@
-window.GML_CATEGORIES=[{"id": "motores-fuera-de-borda", "name": "Motores fuera de borda", "short": "Fuera de borda", "desc": "Motores Parsun 2 y 4 tiempos de 2 a 115 HP, y otras marcas bajo consulta.", "count": 24}, {"id": "repuestos-fuera-de-borda", "name": "Repuestos fuera de borda", "short": "Repuestos marinos", "desc": "Repuestos para motores Yamaha, Suzuki y otras líneas. Más de 750 referencias.", "count": 20}, {"id": "generadores", "name": "Plantas eléctricas", "short": "Generadores", "desc": "Generadores a gasolina, diésel y trifuel, de 2.500 W a 16 kW.", "count": 10}, {"id": "motores-estacionarios", "name": "Motores estacionarios", "short": "Motores", "desc": "Motores a gasolina y diésel para bombas, molinos, fumigadoras y más.", "count": 10}, {"id": "motobombas", "name": "Motobombas", "short": "Motobombas", "desc": "Alta presión, autocebantes y portátiles, a gasolina y diésel.", "count": 15}, {"id": "fumigacion", "name": "Fumigación", "short": "Fumigación", "desc": "Fumigadoras estacionarias y de espalda, lanzas, mangueras y accesorios.", "count": 6}, {"id": "forrajeras-trituradores", "name": "Forrajeras y trituradores", "short": "Forrajeras", "desc": "Molinos, picapastos, desgranadoras y trituradores Trapp.", "count": 39}, {"id": "labranza-jardineria", "name": "Labranza y jardinería", "short": "Labranza", "desc": "Motoazadas, guadañas, motosierras, sopladoras y cortacéspedes.", "count": 15}, {"id": "abrasivos", "name": "Abrasivos", "short": "Abrasivos", "desc": "Discos, lijas, gratas, rodillos y bandas Fujita para metal, concreto e inox.", "count": 28}, {"id": "ganaderia", "name": "Ganadería", "short": "Ganadería", "desc": "Impulsores solares para cerca eléctrica e indicadores de pesaje Gallagher.", "count": 2}, {"id": "lubricantes-repuestos", "name": "Lubricantes y repuestos de motor", "short": "Lubricantes", "desc": "Aceites, grasa y repuestos para motores a gasolina y bombas.", "count": 18}];
+window.GML_CATEGORIES=[{"id": "motores-fuera-de-borda", "name": "Motores fuera de borda", "short": "Fuera de borda", "desc": "Motores Parsun y Navega, 2 y 4 tiempos, y otras marcas bajo consulta.", "count": 32}, {"id": "helices-fuera-de-borda", "name": "Hélices para motores fuera de borda", "short": "Hélices", "desc": "Hélices de acero y de aluminio para motores Yamaha, Suzuki, Parsun, Navega y otros.", "count": 23}, {"id": "bujias", "name": "Bujías NGK", "short": "Bujías", "desc": "Bujías NGK originales para motores fuera de borda, motosierras y guadañas.", "count": 6}, {"id": "repuestos-fuera-de-borda", "name": "Repuestos fuera de borda", "short": "Repuestos marinos", "desc": "Repuestos para motores Yamaha, Suzuki y otras líneas. Más de 750 referencias.", "count": 20}, {"id": "generadores", "name": "Plantas eléctricas", "short": "Generadores", "desc": "Generadores a gasolina, diésel y trifuel, de 2.500 W a 16 kW.", "count": 10}, {"id": "motores-estacionarios", "name": "Motores estacionarios", "short": "Motores", "desc": "Motores a gasolina y diésel para bombas, molinos, fumigadoras y más.", "count": 10}, {"id": "motobombas", "name": "Motobombas", "short": "Motobombas", "desc": "Alta presión, autocebantes y portátiles, a gasolina y diésel.", "count": 15}, {"id": "fumigacion", "name": "Fumigación", "short": "Fumigación", "desc": "Fumigadoras estacionarias y de espalda, lanzas, mangueras y accesorios.", "count": 6}, {"id": "forrajeras-trituradores", "name": "Forrajeras y trituradores", "short": "Forrajeras", "desc": "Molinos, picapastos, desgranadoras y trituradores Trapp.", "count": 39}, {"id": "labranza-jardineria", "name": "Labranza y jardinería", "short": "Labranza", "desc": "Motoazadas, guadañas, motosierras, sopladoras y cortacéspedes.", "count": 15}, {"id": "abrasivos", "name": "Abrasivos", "short": "Abrasivos", "desc": "Discos, lijas, gratas, rodillos y bandas Fujita para metal, concreto e inox.", "count": 28}, {"id": "ganaderia", "name": "Ganadería", "short": "Ganadería", "desc": "Impulsores solares para cerca eléctrica e indicadores de pesaje Gallagher.", "count": 2}, {"id": "lubricantes-repuestos", "name": "Lubricantes y repuestos de motor", "short": "Lubricantes", "desc": "Aceites, grasa y repuestos para motores a gasolina y bombas.", "count": 18}];
 window.GML_REPUESTOS_LINEAS=[{"name": "Motor Y5", "count": 31}, {"name": "Motor Y8", "count": 6}, {"name": "Yamaha 9,9 / 15", "count": 157}, {"name": "25B", "count": 32}, {"name": "40G / 40J", "count": 182}, {"name": "40X", "count": 63}, {"name": "75B", "count": 46}, {"name": "Suzuki 9,9 / 15", "count": 65}, {"name": "Suzuki 30DT", "count": 37}, {"name": "40DT", "count": 15}, {"name": "E60H", "count": 14}, {"name": "FT50", "count": 12}, {"name": "200AET", "count": 43}, {"name": "Rodamientos", "count": 22}, {"name": "F20 Yamaha", "count": 3}, {"name": "F250, F200, F150 (4 tiempos)", "count": 3}, {"name": "Empaques nacionales", "count": 26}];
 window.GML_PRODUCTS=[
 {
@@ -7781,6 +7781,1653 @@ window.GML_PRODUCTS=[
 [
 "Aplicación",
 "Motor 16 HP"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "navega-3fhs",
+"name": "Motor fuera de borda Navega 3FHS",
+"brand": "Navega",
+"cat": "motores-fuera-de-borda",
+"sub": "Navega 2 tiempos",
+"code": "3FHS",
+"image": "assets/img/p/nv-navega-3fhs.webp",
+"summary": "Motor fuera de borda Navega 3FHS. Consulte con nuestro equipo comercial disponibilidad y condiciones.",
+"specs": [
+[
+"Referencia",
+"3FHS"
+],
+[
+"Marca",
+"Navega"
+],
+[
+"Salida máx.",
+"2,2 kW"
+],
+[
+"Rango máx.",
+"4000-5500 rpm"
+],
+[
+"Tipo de motor",
+"2 tiempos"
+],
+[
+"Cilindros",
+"1"
+],
+[
+"Cilindrada",
+"64 cc"
+],
+[
+"Diámetro por carrera",
+"45 x 40 mm"
+],
+[
+"Peso",
+"11,8 kg"
+],
+[
+"Relación de transmisión",
+"27:13 (2,08)"
+],
+[
+"Marchas",
+"F-N"
+],
+[
+"Sistema de encendido",
+"CDI"
+],
+[
+"Sistema de refrigeración",
+"Agua"
+],
+[
+"Sistema de arranque",
+"Manual"
+],
+[
+"Sistema de control",
+"Manual"
+],
+[
+"Capacidad del tanque",
+"1,2 L"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "navega-5fhl",
+"name": "Motor fuera de borda Navega 5FHL",
+"brand": "Navega",
+"cat": "motores-fuera-de-borda",
+"sub": "Navega 2 tiempos",
+"code": "5FHL",
+"image": "assets/img/p/nv-navega-5fhl.webp",
+"summary": "Motor fuera de borda Navega 5FHL. Consulte con nuestro equipo comercial disponibilidad y condiciones.",
+"specs": [
+[
+"Referencia",
+"5FHL"
+],
+[
+"Marca",
+"Navega"
+],
+[
+"Salida máx.",
+"3,7 kW"
+],
+[
+"Rango máx.",
+"4500-5500 rpm"
+],
+[
+"Tipo de motor",
+"2 tiempos"
+],
+[
+"Cilindros",
+"1"
+],
+[
+"Cilindrada",
+"102 cc"
+],
+[
+"Diámetro por carrera",
+"55 x 43 mm"
+],
+[
+"Peso",
+"30 kg"
+],
+[
+"Relación de transmisión",
+"27:13 (2,08)"
+],
+[
+"Marchas",
+"F-N-R"
+],
+[
+"Sistema de encendido",
+"CDI"
+],
+[
+"Sistema de refrigeración",
+"Agua"
+],
+[
+"Sistema de arranque",
+"Manual"
+],
+[
+"Sistema de control",
+"Manual"
+],
+[
+"Capacidad del tanque",
+"2,5 L"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "navega-5fhs",
+"name": "Motor fuera de borda Navega 5FHS",
+"brand": "Navega",
+"cat": "motores-fuera-de-borda",
+"sub": "Navega 2 tiempos",
+"code": "5FHS",
+"image": "assets/img/p/nv-navega-5fhs.webp",
+"summary": "Motor fuera de borda Navega 5FHS. Consulte con nuestro equipo comercial disponibilidad y condiciones.",
+"specs": [
+[
+"Referencia",
+"5FHS"
+],
+[
+"Marca",
+"Navega"
+],
+[
+"Salida máx.",
+"3,7 kW"
+],
+[
+"Rango máx.",
+"4500-5500 rpm"
+],
+[
+"Tipo de motor",
+"2 tiempos"
+],
+[
+"Cilindros",
+"1"
+],
+[
+"Cilindrada",
+"102 cc"
+],
+[
+"Diámetro por carrera",
+"55 x 43 mm"
+],
+[
+"Peso",
+"21 - 23 kg"
+],
+[
+"Relación de transmisión",
+"27:13 (2,08)"
+],
+[
+"Marchas",
+"F-N-R"
+],
+[
+"Sistema de encendido",
+"CDI"
+],
+[
+"Sistema de refrigeración",
+"Agua"
+],
+[
+"Sistema de arranque",
+"Manual"
+],
+[
+"Sistema de control",
+"Manual"
+],
+[
+"Capacidad del tanque",
+"2,5 L"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "navega-e15dmhs",
+"name": "Motor fuera de borda Navega E15DMHS",
+"brand": "Navega",
+"cat": "motores-fuera-de-borda",
+"sub": "Navega 2 tiempos",
+"code": "E15DMHS",
+"image": "assets/img/p/nv-navega-e15dmhs.webp",
+"summary": "Motor fuera de borda Navega E15DMHS. Consulte con nuestro equipo comercial disponibilidad y condiciones.",
+"specs": [
+[
+"Referencia",
+"E15DMHS"
+],
+[
+"Marca",
+"Navega"
+],
+[
+"Salida máx.",
+"11,1 kW"
+],
+[
+"Rango máx.",
+"4500-5500 rpm"
+],
+[
+"Tipo de motor",
+"2 tiempos"
+],
+[
+"Cilindros",
+"2"
+],
+[
+"Cilindrada",
+"246 cc"
+],
+[
+"Diámetro por carrera",
+"56 x 50 mm"
+],
+[
+"Peso",
+"38 - 40 kg"
+],
+[
+"Relación de transmisión",
+"27:13 (2,08)"
+],
+[
+"Marchas",
+"F-N-R"
+],
+[
+"Sistema de encendido",
+"CDI"
+],
+[
+"Sistema de refrigeración",
+"Agua"
+],
+[
+"Sistema de arranque y control",
+"Manual"
+],
+[
+"Sistema de carga",
+"12 V"
+],
+[
+"Capacidad del tanque",
+"24 L"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "navega-e15dmhl",
+"name": "Motor fuera de borda Navega E15DMHL",
+"brand": "Navega",
+"cat": "motores-fuera-de-borda",
+"sub": "Navega 2 tiempos",
+"code": "E15DMHL",
+"image": "assets/img/p/nv-navega-e15dmhl.webp",
+"summary": "Motor fuera de borda Navega E15DMHL. Consulte con nuestro equipo comercial disponibilidad y condiciones.",
+"specs": [
+[
+"Referencia",
+"E15DMHL"
+],
+[
+"Marca",
+"Navega"
+],
+[
+"Salida máx.",
+"11,1 kW"
+],
+[
+"Rango máx.",
+"4500-5500 rpm"
+],
+[
+"Tipo de motor",
+"2 tiempos"
+],
+[
+"Cilindros",
+"2"
+],
+[
+"Cilindrada",
+"246 cc"
+],
+[
+"Diámetro por carrera",
+"56 x 50 mm"
+],
+[
+"Peso",
+"39 - 41 kg"
+],
+[
+"Relación de transmisión",
+"27:13 (2,08)"
+],
+[
+"Marchas",
+"F-N-R"
+],
+[
+"Sistema de encendido",
+"CDI"
+],
+[
+"Sistema de refrigeración",
+"Agua"
+],
+[
+"Sistema de arranque y control",
+"Manual"
+],
+[
+"Sistema de carga",
+"12 V"
+],
+[
+"Capacidad del tanque",
+"24 L"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "navega-e40jmhs",
+"name": "Motor fuera de borda Navega E40JMHS",
+"brand": "Navega",
+"cat": "motores-fuera-de-borda",
+"sub": "Navega 2 tiempos",
+"code": "E40JMHS",
+"image": "assets/img/p/nv-navega-e40jmhs.webp",
+"summary": "Motor fuera de borda Navega E40JMHS. Consulte con nuestro equipo comercial disponibilidad y condiciones.",
+"specs": [
+[
+"Referencia",
+"E40JMHS"
+],
+[
+"Marca",
+"Navega"
+],
+[
+"Revoluciones en neutral",
+"1100-1200 rpm"
+],
+[
+"Rango máx.",
+"4500-5500 rpm"
+],
+[
+"Tipo de motor",
+"2 tiempos"
+],
+[
+"Cilindros",
+"2"
+],
+[
+"Diámetro por carrera",
+"78 x 70 mm"
+],
+[
+"Peso",
+"65 kg"
+],
+[
+"Relación de transmisión",
+"26:13 (2,0)"
+],
+[
+"Marchas",
+"F-N-R"
+],
+[
+"Sistema de encendido",
+"CDI"
+],
+[
+"Sistema de refrigeración",
+"Agua"
+],
+[
+"Sistema de arranque",
+"Manual"
+],
+[
+"Sistema de control",
+"Manual"
+],
+[
+"Capacidad del tanque",
+"24 L"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "navega-e40jmhl",
+"name": "Motor fuera de borda Navega E40JMHL",
+"brand": "Navega",
+"cat": "motores-fuera-de-borda",
+"sub": "Navega 2 tiempos",
+"code": "E40JMHL",
+"image": "assets/img/p/nv-navega-e40jmhl.webp",
+"summary": "Motor fuera de borda Navega E40JMHL. Consulte con nuestro equipo comercial disponibilidad y condiciones.",
+"specs": [
+[
+"Referencia",
+"E40JMHL"
+],
+[
+"Marca",
+"Navega"
+],
+[
+"Revoluciones en neutral",
+"1100-1200 rpm"
+],
+[
+"Rango máx.",
+"4500-5500 rpm"
+],
+[
+"Tipo de motor",
+"2 tiempos"
+],
+[
+"Cilindros",
+"2"
+],
+[
+"Diámetro por carrera",
+"78 x 70 mm"
+],
+[
+"Peso",
+"70 kg"
+],
+[
+"Relación de transmisión",
+"26:13 (2,0)"
+],
+[
+"Marchas",
+"F-N-R"
+],
+[
+"Sistema de encendido",
+"CDI"
+],
+[
+"Sistema de refrigeración",
+"Agua"
+],
+[
+"Sistema de arranque",
+"Manual"
+],
+[
+"Sistema de control",
+"Manual"
+],
+[
+"Capacidad del tanque",
+"24 L"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "navega-75fhl-d",
+"name": "Motor fuera de borda Navega 75FHL-D",
+"brand": "Navega",
+"cat": "motores-fuera-de-borda",
+"sub": "Navega 2 tiempos",
+"code": "75FHL-D",
+"image": "assets/img/p/nv-navega-75fhl-d.webp",
+"summary": "Motor fuera de borda Navega 75FHL-D. Consulte con nuestro equipo comercial disponibilidad y condiciones.",
+"specs": [
+[
+"Referencia",
+"75FHL-D"
+],
+[
+"Marca",
+"Navega"
+],
+[
+"Potencia",
+"75 HP / 55,2 kW"
+],
+[
+"Rango máx.",
+"4500-5500 rpm"
+],
+[
+"Tipo de motor",
+"2 tiempos"
+],
+[
+"Cilindrada",
+"1140 cc"
+],
+[
+"Peso",
+"114 kg"
+],
+[
+"Relación de transmisión",
+"2,00"
+],
+[
+"Palanca de cambio",
+"F-N-R"
+],
+[
+"Sistema de encendido",
+"CDI"
+],
+[
+"Tanque de combustible",
+"24 L externo"
+],
+[
+"Sistema de arranque",
+"Manual y eléctrico"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-acero-40jx-estria",
+"name": "Hélice de acero 40J/X estría",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Acero",
+"code": "663-45947-02-EL-A",
+"image": "assets/img/p/hel-acero-40jx-estria.webp",
+"summary": "Hélice de acero para motores fuera de borda: 40J/X. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"663-45947-02-EL-A"
+],
+[
+"Material",
+"Acero"
+],
+[
+"Aplicación",
+"40J/X"
+],
+[
+"Medida (según catálogo)",
+"P11-5/8 x 11"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-acero-50-115",
+"name": "Hélice de acero 50/60/75/85/115",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Acero",
+"code": "688-45932-60-98-A",
+"image": "assets/img/p/hel-acero-50-115.webp",
+"summary": "Hélice de acero para motores fuera de borda: 50/60/75/85/115. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"688-45932-60-98-A"
+],
+[
+"Material",
+"Acero"
+],
+[
+"Aplicación",
+"50/60/75/85/115"
+],
+[
+"Medida (según catálogo)",
+"P13-1/2 x 14"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-acero-150-250-rh",
+"name": "Hélice de acero 150/200/250, giro derecho (RH)",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Acero",
+"code": "6G5-45974-03-98-A",
+"image": "assets/img/p/hel-acero-150-250-rh.webp",
+"summary": "Hélice de acero para motores fuera de borda: 150/200/250. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"6G5-45974-03-98-A"
+],
+[
+"Material",
+"Acero"
+],
+[
+"Aplicación",
+"150/200/250"
+],
+[
+"Medida (según catálogo)",
+"P13-3/4 x 19"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-acero-150-250-lh",
+"name": "Hélice de acero 150/200/250, giro izquierdo (LH)",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Acero",
+"code": "6K1-45974-02-98-A",
+"image": "assets/img/p/hel-acero-150-250-lh.webp",
+"summary": "Hélice de acero para motores fuera de borda: 150/200/250. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"6K1-45974-02-98-A"
+],
+[
+"Material",
+"Acero"
+],
+[
+"Aplicación",
+"150/200/250"
+],
+[
+"Medida (según catálogo)",
+"P13-3/4 x 19"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-acero-75yam-90-140suz",
+"name": "Hélice de acero 75 Yamaha / 90-100-115-140 Suzuki",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Acero",
+"code": "58100-90JA0-019-A",
+"image": "assets/img/p/hel-acero-75yam-90-140suz.webp",
+"summary": "Hélice de acero para motores fuera de borda: 75 Yamaha, 90/100/115/140 Suzuki. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"58100-90JA0-019-A"
+],
+[
+"Material",
+"Acero"
+],
+[
+"Aplicación",
+"75 Yamaha, 90/100/115/140 Suzuki"
+],
+[
+"Medida (según catálogo)",
+"P14 x 17"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-acero-15df",
+"name": "Hélice de acero 15D/F",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Acero",
+"code": "63V-45945-10-EL-A",
+"image": "assets/img/p/hel-acero-15df.webp",
+"summary": "Hélice de acero para motores fuera de borda: 15D/F. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"63V-45945-10-EL-A"
+],
+[
+"Material",
+"Acero"
+],
+[
+"Aplicación",
+"15D/F"
+],
+[
+"Medida (según catálogo)",
+"3 palas, 9-1/4 x 9"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-acero-75yam-px",
+"name": "Hélice de acero 75 Yamaha / 90-100-115-140 Suzuki, PX",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Acero",
+"code": "3451-139-19",
+"image": "assets/img/p/hel-acero-75yam-px.webp",
+"summary": "Hélice de acero para motores fuera de borda: 75 Yamaha, 90/100/115/140 Suzuki. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"3451-139-19"
+],
+[
+"Material",
+"Acero"
+],
+[
+"Aplicación",
+"75 Yamaha, 90/100/115/140 Suzuki"
+],
+[
+"Medida (según catálogo)",
+"PX 13-7/8 x 19R"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-alu-15df-negra",
+"name": "Hélice de aluminio 15D/F negra",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Aluminio",
+"code": "63V-45945-10-EL-N",
+"image": "assets/img/p/hel-alu-15df-negra.webp",
+"summary": "Hélice de aluminio para motores fuera de borda: 15D/F. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"63V-45945-10-EL-N"
+],
+[
+"Material",
+"Aluminio"
+],
+[
+"Aplicación",
+"15D/F"
+],
+[
+"Medida (según catálogo)",
+"3 palas, 9-1/4 x 9"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-alu-40g-pasador",
+"name": "Hélice de aluminio 40G pasador negra",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Aluminio",
+"code": "676-45941-62-EL-N",
+"image": "assets/img/p/hel-alu-40g-pasador.webp",
+"summary": "Hélice de aluminio para motores fuera de borda: 40G (pasador). Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"676-45941-62-EL-N"
+],
+[
+"Material",
+"Aluminio"
+],
+[
+"Aplicación",
+"40G (pasador)"
+],
+[
+"Medida (según catálogo)",
+"3 palas, 11-1/2 x 11"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-alu-40jx-11",
+"name": "Hélice de aluminio 40J/X estría negra 11-5/8 x 11",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Aluminio",
+"code": "663-45947-02-EL-N",
+"image": "assets/img/p/hel-alu-40jx-11.webp",
+"summary": "Hélice de aluminio para motores fuera de borda: 40J/X (estría). Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"663-45947-02-EL-N"
+],
+[
+"Material",
+"Aluminio"
+],
+[
+"Aplicación",
+"40J/X (estría)"
+],
+[
+"Medida (según catálogo)",
+"3 palas, 11-5/8 x 11"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-alu-40jx-12",
+"name": "Hélice de aluminio 40J/X estría negra 10-5/8 x 12",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Aluminio",
+"code": "6H5-45952-00-00-N",
+"image": "assets/img/p/hel-alu-40jx-12.webp",
+"summary": "Hélice de aluminio para motores fuera de borda: 40J/X (estría). Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"6H5-45952-00-00-N"
+],
+[
+"Material",
+"Aluminio"
+],
+[
+"Aplicación",
+"40J/X (estría)"
+],
+[
+"Medida (según catálogo)",
+"3 palas, 10-5/8 x 12"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-alu-50-115",
+"name": "Hélice de aluminio 50/60/75/85/115 negra",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Aluminio",
+"code": "6E5-45947-00-EL-N",
+"image": "assets/img/p/hel-alu-50-115.webp",
+"summary": "Hélice de aluminio para motores fuera de borda: 50/60/75/85/115. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"6E5-45947-00-EL-N"
+],
+[
+"Material",
+"Aluminio"
+],
+[
+"Aplicación",
+"50/60/75/85/115"
+],
+[
+"Medida (según catálogo)",
+"P13-1/2 x 15"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-alu-15-suz",
+"name": "Hélice de aluminio 15 Suzuki negra",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Aluminio",
+"code": "58100-90L50-019-N",
+"image": "assets/img/p/hel-alu-15-suz.webp",
+"summary": "Hélice de aluminio para motores fuera de borda: 15 Suzuki. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"58100-90L50-019-N"
+],
+[
+"Material",
+"Aluminio"
+],
+[
+"Aplicación",
+"15 Suzuki"
+],
+[
+"Medida (según catálogo)",
+"P9-1/4 x 9"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-alu-30-suz",
+"name": "Hélice de aluminio 30 Suzuki negra",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Aluminio",
+"code": "58100-96420-019-N",
+"image": "assets/img/p/hel-alu-30-suz.webp",
+"summary": "Hélice de aluminio para motores fuera de borda: 30 Suzuki. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"58100-96420-019-N"
+],
+[
+"Material",
+"Aluminio"
+],
+[
+"Aplicación",
+"30 Suzuki"
+],
+[
+"Medida (según catálogo)",
+"3 palas, P10-1/4 x 11"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-alu-40-60-suz",
+"name": "Hélice de aluminio 40/60 Suzuki negra",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Aluminio",
+"code": "58100-88L31-019-N",
+"image": "assets/img/p/hel-alu-40-60-suz.webp",
+"summary": "Hélice de aluminio para motores fuera de borda: 40/60 Suzuki. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"58100-88L31-019-N"
+],
+[
+"Material",
+"Aluminio"
+],
+[
+"Aplicación",
+"40/60 Suzuki"
+],
+[
+"Medida (según catálogo)",
+"3 palas, 11-5/8 x 12"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-alu-3navega-2parsun-7",
+"name": "Hélice 3 Navega / Hidea, 2 Parsun / Yamaha 7",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Aluminio",
+"code": "6F8-45942-01-EL-N",
+"image": "assets/img/p/hel-alu-3navega-2parsun-7.webp",
+"summary": "Hélice de aluminio para motores fuera de borda: 3 Navega/Hidea, 2 Parsun, Yamaha 7. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"6F8-45942-01-EL-N"
+],
+[
+"Material",
+"Aluminio"
+],
+[
+"Aplicación",
+"3 Navega/Hidea, 2 Parsun, Yamaha 7"
+],
+[
+"Medida (según catálogo)",
+"7-1/4 x 5"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-alu-5navega-yam36",
+"name": "Hélice 5 Navega / Hidea / Yamaha 3.6 / Parsun",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Aluminio",
+"code": "6E0-45943-01-EL-N",
+"image": "assets/img/p/hel-alu-5navega-yam36.webp",
+"summary": "Hélice de aluminio para motores fuera de borda: 5 Navega/Hidea, Yamaha 3.6, Parsun. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"6E0-45943-01-EL-N"
+],
+[
+"Material",
+"Aluminio"
+],
+[
+"Aplicación",
+"5 Navega/Hidea, Yamaha 3.6, Parsun"
+],
+[
+"Medida (según catálogo)",
+"7-1/2 x 7"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-alu-t5-pars",
+"name": "Hélice T5 Pars 12 dientes",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Aluminio",
+"code": "T5-03030000",
+"image": "assets/img/p/hel-alu-t5-pars.webp",
+"summary": "Hélice de aluminio para motores fuera de borda: T5 Pars. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"T5-03030000"
+],
+[
+"Material",
+"Aluminio"
+],
+[
+"Aplicación",
+"T5 Pars"
+],
+[
+"Medida (según catálogo)",
+"7/8 x 8 (12 dientes)"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-alu-20-25-30-yam",
+"name": "Hélice de aluminio 20/25/30 Yamaha negra",
+"brand": "Navega",
+"cat": "helices-fuera-de-borda",
+"sub": "Aluminio",
+"code": "664-45945-00-EL",
+"image": "assets/img/p/hel-alu-20-25-30-yam.webp",
+"summary": "Hélice de aluminio para motores fuera de borda: 20/25/30 Yamaha. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"664-45945-00-EL"
+],
+[
+"Material",
+"Aluminio"
+],
+[
+"Aplicación",
+"20/25/30 Yamaha"
+],
+[
+"Medida (según catálogo)",
+"9-7/8 x 10-1/2 F"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-prop-15-suz",
+"name": "Hélice de aluminio 15 Suzuki Propeller",
+"brand": "Propeller",
+"cat": "helices-fuera-de-borda",
+"sub": "Aluminio",
+"code": "58100-90L50-019",
+"image": "assets/img/p/hel-prop-15-suz.webp",
+"summary": "Hélice de aluminio para motores fuera de borda: 15 Suzuki. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"58100-90L50-019"
+],
+[
+"Línea",
+"Propeller"
+],
+[
+"Material",
+"Aluminio"
+],
+[
+"Aplicación",
+"15 Suzuki"
+],
+[
+"Medida (según catálogo)",
+"P9"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-prop-15df",
+"name": "Hélice de aluminio 15D/F Propeller",
+"brand": "Propeller",
+"cat": "helices-fuera-de-borda",
+"sub": "Aluminio",
+"code": "63V-45945-00-EL",
+"image": "assets/img/p/hel-prop-15df.webp",
+"summary": "Hélice de aluminio para motores fuera de borda: 15D/F. Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"63V-45945-00-EL"
+],
+[
+"Línea",
+"Propeller"
+],
+[
+"Material",
+"Aluminio"
+],
+[
+"Aplicación",
+"15D/F"
+],
+[
+"Medida (según catálogo)",
+"P9"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-prop-40g-pasador",
+"name": "Hélice de aluminio 40G pasador Propeller",
+"brand": "Propeller",
+"cat": "helices-fuera-de-borda",
+"sub": "Aluminio",
+"code": "676-45941-62-EL",
+"image": "assets/img/p/hel-prop-40g-pasador.webp",
+"summary": "Hélice de aluminio para motores fuera de borda: 40G (pasador). Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"676-45941-62-EL"
+],
+[
+"Línea",
+"Propeller"
+],
+[
+"Material",
+"Aluminio"
+],
+[
+"Aplicación",
+"40G (pasador)"
+],
+[
+"Medida (según catálogo)",
+"P11"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "helice-prop-40j-estria",
+"name": "Hélice de aluminio 40J estría Propeller",
+"brand": "Propeller",
+"cat": "helices-fuera-de-borda",
+"sub": "Aluminio",
+"code": "663-45947-02-EL-B",
+"image": "assets/img/p/hel-prop-40j-estria.webp",
+"summary": "Hélice de aluminio para motores fuera de borda: 40J (estría). Consulte disponibilidad y precio con nuestro equipo comercial.",
+"specs": [
+[
+"Referencia",
+"663-45947-02-EL-B"
+],
+[
+"Línea",
+"Propeller"
+],
+[
+"Material",
+"Aluminio"
+],
+[
+"Aplicación",
+"40J (estría)"
+],
+[
+"Medida (según catálogo)",
+"P11"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "bujia-ngk-dpr8ea-9",
+"name": "Bujía NGK DPR8EA-9",
+"brand": "NGK",
+"cat": "bujias",
+"sub": "Motores fuera de borda",
+"code": "DPR8EA-9",
+"image": "assets/img/p/bujia-dpr8ea-9.webp",
+"summary": "Bujía NGK original para motores fuera de borda. Escríbanos con la marca, modelo y año de su equipo para confirmar la referencia correcta.",
+"specs": [
+[
+"Marca",
+"NGK"
+],
+[
+"Referencia",
+"DPR8EA-9"
+],
+[
+"Uso",
+"Motores fuera de borda"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "bujia-ngk-lfr5a-11",
+"name": "Bujía NGK LFR5A-11",
+"brand": "NGK",
+"cat": "bujias",
+"sub": "Motores fuera de borda",
+"code": "LFR5A-11",
+"image": "assets/img/p/bujia-lfr5a-11.webp",
+"summary": "Bujía NGK original para motores fuera de borda. Escríbanos con la marca, modelo y año de su equipo para confirmar la referencia correcta.",
+"specs": [
+[
+"Marca",
+"NGK"
+],
+[
+"Referencia",
+"LFR5A-11"
+],
+[
+"Uso",
+"Motores fuera de borda"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "bujia-ngk-lkr6d-10e",
+"name": "Bujía NGK LKR6D-10E",
+"brand": "NGK",
+"cat": "bujias",
+"sub": "Motores fuera de borda",
+"code": "LKR6D-10E",
+"image": "assets/img/p/bujia-lkr6d-10e.webp",
+"summary": "Bujía NGK original para motores fuera de borda. Escríbanos con la marca, modelo y año de su equipo para confirmar la referencia correcta.",
+"specs": [
+[
+"Marca",
+"NGK"
+],
+[
+"Referencia",
+"LKR6D-10E"
+],
+[
+"Uso",
+"Motores fuera de borda"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "bujia-ngk-cr9e",
+"name": "Bujía NGK CR9E",
+"brand": "NGK",
+"cat": "bujias",
+"sub": "Motores fuera de borda",
+"code": "CR9E",
+"image": "assets/img/p/bujia-cr9e.webp",
+"summary": "Bujía NGK original para motores fuera de borda. Escríbanos con la marca, modelo y año de su equipo para confirmar la referencia correcta.",
+"specs": [
+[
+"Marca",
+"NGK"
+],
+[
+"Referencia",
+"CR9E"
+],
+[
+"Uso",
+"Motores fuera de borda"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "bujia-ngk-bkr6e",
+"name": "Bujía NGK BKR6E",
+"brand": "NGK",
+"cat": "bujias",
+"sub": "Motores fuera de borda",
+"code": "BKR6E",
+"image": "assets/img/p/bujia-bkr6e.webp",
+"summary": "Bujía NGK original para motores fuera de borda. Escríbanos con la marca, modelo y año de su equipo para confirmar la referencia correcta.",
+"specs": [
+[
+"Marca",
+"NGK"
+],
+[
+"Referencia",
+"BKR6E"
+],
+[
+"Uso",
+"Motores fuera de borda"
+]
+],
+"feats": [],
+"variants": null,
+"note": null,
+"motor": null,
+"tag": null,
+"refPhoto": false,
+"price": null
+},
+{
+"id": "bujia-ngk-bmr6a",
+"name": "Bujía NGK BMR6A",
+"brand": "NGK",
+"cat": "bujias",
+"sub": "Motosierras y guadañas",
+"code": "BMR6A",
+"image": "assets/img/p/bujia-bmr6a.webp",
+"summary": "Bujía NGK original para motosierras y guadañas. Escríbanos con la marca, modelo y año de su equipo para confirmar la referencia correcta.",
+"specs": [
+[
+"Marca",
+"NGK"
+],
+[
+"Referencia",
+"BMR6A"
+],
+[
+"Uso",
+"Motosierras y guadañas"
 ]
 ],
 "feats": [],

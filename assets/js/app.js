@@ -15,6 +15,8 @@
     menu: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>',
     wa: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.04 2a9.9 9.9 0 0 0-8.5 14.95L2 22l5.2-1.5A9.9 9.9 0 1 0 12.04 2Zm0 18.1a8.2 8.2 0 0 1-4.2-1.15l-.3-.18-3.08.9.92-3-.2-.31A8.2 8.2 0 1 1 12.04 20.1Zm4.5-6.14c-.25-.12-1.46-.72-1.69-.8s-.39-.12-.55.12-.63.8-.78.96-.29.18-.54.06a6.7 6.7 0 0 1-3.3-2.88c-.25-.43.25-.4.72-1.33a.45.45 0 0 0-.02-.43c-.06-.12-.55-1.33-.76-1.82s-.4-.41-.55-.42h-.47a.9.9 0 0 0-.66.31 2.77 2.77 0 0 0-.86 2.06 4.8 4.8 0 0 0 1 2.55 11 11 0 0 0 4.3 3.8c1.6.69 2.23.75 3.03.63a2.6 2.6 0 0 0 1.7-1.2 2.1 2.1 0 0 0 .15-1.2c-.06-.1-.22-.16-.47-.28Z"/></svg>',
     box: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M21 8 12 3 3 8v8l9 5 9-5V8Z"/><path d="m3 8 9 5 9-5M12 13v8"/></svg>',
+    spark: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2h4M12 2v4M9 6h6v4l-1 2h-4l-1-2zM10 12v6l2 3 2-3v-6"/></svg>',
+    prop: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="1.8"/><path d="M12 10.2C10.5 7 10.8 4 13 3c2 1.6 1.6 4.8-1 7.2zM13.6 13.1c3.4-.3 6 .9 6.2 3.3-1.9 1.6-5 .5-6.6-2.3zM10.4 13.1c-.3 3.4-2.6 5.3-5 4.6-.9-2.3 1.3-4.9 4.6-5.9z"/></svg>',
     boat: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17c1.5 1.3 3 1.3 4.5 0s3-1.3 4.5 0 3 1.3 4.5 0 3-1.3 4.5 0"/><path d="M5 14 4 9h16l-1 5"/><path d="M12 9V4l4 3"/></svg>',
     gear: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M19.1 4.9 17 7M7 17l-2.1 2.1"/></svg>',
     bolt: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 4 14h7l-1 8 9-12h-7l1-8Z"/></svg>',
@@ -28,7 +30,7 @@
     oil: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3h5l1 3h2v15H7V6h2L8 3Z"/><path d="M10 12h4"/></svg>',
     wrench: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a4 4 0 0 0 5 5L21 12.6 12.6 21 3 11.4l8.4-8.4 1.3 1.3a4 4 0 0 0 2 2Z"/></svg>'
   };
-  const CATICON = { "motores-fuera-de-borda": "boat", "repuestos-fuera-de-borda": "wrench", generadores: "bolt", "motores-estacionarios": "engine", motobombas: "drop", fumigacion: "spray", "forrajeras-trituradores": "grain", "labranza-jardineria": "leaf", abrasivos: "disc", ganaderia: "cow", "lubricantes-repuestos": "oil" };
+  const CATICON = { "motores-fuera-de-borda": "boat", "helices-fuera-de-borda": "prop", bujias: "spark", "repuestos-fuera-de-borda": "wrench", generadores: "bolt", "motores-estacionarios": "engine", motobombas: "drop", fumigacion: "spray", "forrajeras-trituradores": "grain", "labranza-jardineria": "leaf", abrasivos: "disc", ganaderia: "cow", "lubricantes-repuestos": "oil" };
   const icon = (n) => I[n] || I.box;
   const catIcon = (id) => icon(CATICON[id]);
 
